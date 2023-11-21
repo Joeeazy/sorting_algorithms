@@ -3,35 +3,35 @@
 # General
 * At least four different sorting algorithms
   * Bubble Sort:
-  Overview: Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+     Overview: Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
-  Time Complexity: O(n^2) in the worst case.
+     Time Complexity: O(n^2) in the worst case.
 
-  Space Complexity: O(1) as it requires only a constant amount of additional memoryy
+     Space Complexity: O(1) as it requires only a constant amount of additional memoryy
 
   * Merge Sort:
 
-  Overview: Merge Sort is a divide and conquer algorithm that divides the input array into two halves, recursively sorts each half, and then merges the sorted halves.
+     Overview: Merge Sort is a divide and conquer algorithm that divides the input array into two halves, recursively sorts each half, and then merges the sorted halves.
 
-  Time Complexity: O(n log n) in the worst case.
+     Time Complexity: O(n log n) in the worst case.
 
-  Space Complexity: O(n) as it requires additional space for the merging step.
+     Space Complexity: O(n) as it requires additional space for the merging step.
 
   * Quick Sort:
 
-  Overview: Quick Sort is another divide and conquer algorithm that partitions the array into two smaller sub-arrays, and then recursively sorts the sub-arrays.
+     Overview: Quick Sort is another divide and conquer algorithm that partitions the array into two smaller sub-arrays, and then recursively sorts the sub-arrays.
 
-  Time Complexity: O(n^2) in the worst case, but O(n log n) on average. The choice of the pivot can affect performance.
+     Time Complexity: O(n^2) in the worst case, but O(n log n) on average. The choice of the pivot can affect performance.
 
-  Space Complexity: O(log n) for the recursive call stack.
+     Space Complexity: O(log n) for the recursive call stack.
 
   * Heap Sort:
 
-  Overview: Heap Sort is based on the heap data structure. It first builds a max-heap from the input array, then repeatedly extracts the maximum element from the heap and rebuilds the heap.
+     Overview: Heap Sort is based on the heap data structure. It first builds a max-heap from the input array, then repeatedly extracts the maximum element from the heap and rebuilds the heap.
 
-  Time Complexity: O(n log n) in the worst case.
+     Time Complexity: O(n log n) in the worst case.
 
-  Space Complexity: O(1) as it sorts the array in-place.
+     Space Complexity: O(1) as it sorts the array in-place.
 
 
 * What is the Big O notation, and how to evaluate the time complexity of an algorithm
