@@ -3,6 +3,7 @@
 # General
 * At least four different sorting algorithms
   * Bubble Sort:
+     
      Overview: Bubble Sort is a simple sorting algorithm that repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
 
      Time Complexity: O(n^2) in the worst case.
