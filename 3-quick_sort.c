@@ -1,7 +1,7 @@
 #include "sort.h"
 
 /**
- * lomuto_partition - Finds the partition for quicksort using the Lomuto scheme.
+ * lomuto_partition - Finds partition for quicksort using the Lomuto scheme.
  * @array: Array to sort.
  * @low: Lowest index of the partition to sort.
  * @high: Highest index of the partition to sort.
